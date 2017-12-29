@@ -1,4 +1,4 @@
-# CpuToYourEars
+# Cpu To Your Ears
 Plays the music to correspond to the CPU load.
 
 Requires .NET Framework 4.6.1.  This is a command line application.
