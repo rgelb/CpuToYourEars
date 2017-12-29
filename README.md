@@ -1,7 +1,7 @@
 # Cpu To Your Ears
 Plays the music to correspond to the CPU load.
 
-Requires .NET Framework 4.6.1.  This is a command line application.
+Requires .NET Framework 4.6.1 and runs on Windows.  This is a command line application.
 
 * To get all possible command line parameters, execute `CpuToYourEars.exe /?`
 * To connect to the CPU of your own machine, simply execute `CpuToYourEars.exe`
